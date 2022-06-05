@@ -92,11 +92,32 @@ nav{
       }
     }
 
-    // a.active {
-    //   svg {
-    //     color: #ffd700;
-    //   }
-    // }
+    a.active {
+      svg {
+        color: #00A2E8;
+      }
+    }
   }
 
-     
+    ul{
+      position: absolute;
+      bottom: 30px;
+      width: 100%;
+      display: block;
+      list-style: none;
+      text-align: center;
+      margin:0;
+
+      li{
+        a{
+          padding: 7px 0;
+          display: block;
+          font-size: 35px;
+          line-height: 16px;
+
+          &:hover svg{
+            color: #00A2E8;
+          }
+        }
+      }
+    } 
