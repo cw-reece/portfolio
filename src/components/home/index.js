@@ -5,6 +5,11 @@ import './index.scss'
 import { Link } from 'react-router-dom'
 
 const Home = () => {
+  useEffect(() => {
+    setTimeout(() => {
+      setLetterClass('text-animate-hover')
+    }, 4006)
+  }, [])
   const [letterClass, setLetterClass] = useState('text-animate')
   const nameArray = ['.', 'W', '.', ' ', 'R', 'e', 'e', 'c', 'e']
   const jobArray = [
@@ -24,6 +29,7 @@ const Home = () => {
     '.',
   ]
   const greetArray = ['H', 'e', 'l', 'l', 'o']
+
   return (
     <>
       <div className="container home-page">
