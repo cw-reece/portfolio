@@ -3,7 +3,7 @@ import AnimatedLetters from '../AnimatedLetters'
 import LogoTitle from '../../Assets/images/logopreload.png'
 import './index.scss'
 import { Link } from 'react-router-dom'
-
+import Loader from 'react-loaders'
 const Home = () => {
   useEffect(() => {
     setTimeout(() => {
@@ -62,6 +62,7 @@ const Home = () => {
           </Link>
         </div>
       </div>
+      <Loader type="ball-grid-pulse" />
     </>
   )
 }
