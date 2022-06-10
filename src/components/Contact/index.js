@@ -52,8 +52,9 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I am interested in freelance opportunities but will respond to all
-            requests or question, don't hesitate to contact me.
+            I am predomantly interested in freelance opportunities, however I
+            will respond to all requests or questions. Please don't hesitate to
+            contact me.
           </p>
           <div className="contact-form">
             <form ref={form} onSubmit={sendEmail}>

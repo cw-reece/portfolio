@@ -56,8 +56,9 @@ const About = () => {
           <p>
             {' '}
             When I am not coding or spending time with my family, I am an
-            Intelligence Technician for the U.S. Army. Developing tools to help
-            my Soldiers be more successful was what started my coding journey.{' '}
+            Intelligence Technician for the U.S. Army. This is what started my
+            coding journey, I wanted to develop tools to help my Soldiers be
+            more successful.{' '}
           </p>{' '}
         </div>
         <div className="stage-cube-cont">

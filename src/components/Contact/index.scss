@@ -44,29 +44,27 @@
     input[type='email'] {
         width: 100%;
         border: 0;
-        background: #115173;
+        background: #3689b7;
         height: 50px;
-        font-size: 16px;
-        color: #fff;
         padding: 0 20px;
         box-sizing: border-box;
+        
     }
 
     textarea {
         width: 100%;
         border: 0;
-        background: #115173;
+        background: #3689b7;
         height: 50px;
-        font-size: 16px;
-        color: #fff;
         padding: 20px;
         box-sizing: border-box;
         min-height: 150px;
+        ;
     }
 
     .flat-button {
         color: #ffd700;
-        font-size: 11px;
+        font-size: 25px;
         letter-spacing: 3px;
         text-decoration: none;
         padding: 8px 10px;
