@@ -6,7 +6,7 @@
 
 .top-tags {
     bottom: auto;
-    top: 35px;
+    top: 20px;
 }
 
 .tags {
@@ -14,7 +14,7 @@
     position: absolute;
     bottom: 0;
     left: 155px;
-    font-size: 25px;
+    font-size: 20px;
     font-family: 'Pristina';
         opacity: .559;
 }
@@ -38,12 +38,11 @@
     animation-delay: 1s;
 }
 
-.container.contact-page,
-.container.about-page
+.container.contact-page
 {
 
     h1 {
-        font-size: 53px;
+        font-size: 45px;
         font-family: 'JetBrains Mono';
         color: #00A2E8;
         font-weight: 400;
@@ -56,7 +55,7 @@
             content: '<h1>';
             font-family: 'Pristina';
             color: #e791e7;
-            font-size: 24px;
+            font-size: 20px;
             position: absolute;
             margin-top: -10px;
             left: -10px;
@@ -68,7 +67,7 @@
             content: '<h1/>';
             font-family: 'Pristina';
                 color: #e791e7;
-            font-size: 24px;
+            font-size: 20px;
             line-height: 18px;
             position: absolute;
             left: -30px;
@@ -79,7 +78,7 @@
     }
 
     p {
-        font-size: 22px;
+        font-size: 14px;
         color: #fff;
         font-family: sans-serif;
         font-weight: 400;
@@ -103,7 +102,7 @@
     .text-zone {
         position: absolute;
         left: 25%;
-        top: 50%;
+        top: 30%;
         transform: translateY(-50%);
         width: 35%;
         vertical-align: middle;
