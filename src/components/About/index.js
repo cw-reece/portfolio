@@ -42,20 +42,22 @@ const About = () => {
           </h1>{' '}
           <p>
             {' '}
-            I'm very ambitious front-end developer looking for a role in
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.{' '}
+            I'm a front-end developer who codes for the challenge and
+            opportunity. I am searching for new and unique problems to help
+            solve. As technology becomes more assessable, code creates
+            opportunities to streamline the mundane so people can focus on the
+            challenges that ignite their passion.{' '}
           </p>{' '}
           <p align="LEFT">
             {' '}
-            I'm quietly confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.{' '}
+            I'm quietly confident, voraciously curious, and perpetually working
+            on improving my skills and knowledge one design problem at a time.{' '}
           </p>{' '}
           <p>
             {' '}
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed ! ! !{' '}
+            When I am not coding or spending time with my family, I am an
+            Intelligence Technician for the U.S. Army. Developing tools to help
+            my Soldiers be more successful was what started my coding journey.{' '}
           </p>{' '}
         </div>
         <div className="stage-cube-cont">
